@@ -1,7 +1,8 @@
 ### Eaee! Eu sou o Felipe Gabriel
 
-- 🔭 Estudando sober front e back-end ...
+- 🔭 Estudando sobre front e back-end.
 - 🌱 Estudando Java, Javascript, Html, CSS.
+-  🕶 Me arriscando na programção.
 
 ##
 <div align="center">
